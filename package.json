@@ -1,0 +1,15 @@
+{
+  "name": "mineflayer-bot-test",
+  "version": "1.0.0",
+  "description": "pelanguero prueba Mineflayer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pelanguero",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^4.11.0",
+    "prismarine-viewer": "^1.25.0"
+  }
+}
